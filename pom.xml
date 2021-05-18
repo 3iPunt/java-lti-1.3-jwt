@@ -45,7 +45,7 @@
 		<dependency>
 			<groupId>edu.uoc.elc.lti</groupId>
 			<artifactId>lti-13-core</artifactId>
-			<version>0.0.3</version>
+			<version>0.0.5</version>
 		</dependency>
 		<dependency>
 			<groupId>com.auth0</groupId>
